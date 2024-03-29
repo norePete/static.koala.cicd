@@ -1,2 +1,0 @@
-# koalahostcicd
-# static.koala.cicd
